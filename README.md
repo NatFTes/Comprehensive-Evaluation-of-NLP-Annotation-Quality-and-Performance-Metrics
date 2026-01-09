@@ -32,7 +32,7 @@ Using a dataset of 5,000 samples, we simulate annotator disagreement, apply refi
 ## 📂 How to Use This Repository
 
 You can explore the full analysis, visualizations, and conclusions in the PDF document:  
-**[Comprehensive..](https://)**  
+**[Comprehensive-Evaluation-of-NLP-Annotation-Quality-and-Performance-Metrics.pdf](https://github.com/NatFTes/Comprehensive-Evaluation-of-NLP-Annotation-Quality-and-Performance-Metrics/blob/main/Comprehensive-Evaluation-of-NLP-Annotation-Quality-and-Performance-Metrics.pdf)**  
 This version was exported directly from the original Jupyter Notebook using LaTeX.
 
 To explore the original datasets, refer to the links mentioned in the PDF report.
